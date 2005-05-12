@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="210mm"
+   height="297mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docbase="/home/pa/Desktop/tiramisu/tw-0.0.2-beta-1/functions/tema/iconos"
+   sodipodi:docname="triste.svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient2447">
+      <stop
+         style="stop-color:#a8a823;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop2448" />
+      <stop
+         style="stop-color:#feff00;stop-opacity:0.91869920;"
+         offset="0.50000000"
+         id="stop2451" />
+      <stop
+         style="stop-color:#f9fa12;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop2449" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2447"
+       id="linearGradient2450"
+       gradientTransform="scale(1.036991,0.964328)"
+       x1="378.45987"
+       y1="839.66815"
+       x2="397.84082"
+       y2="-288.66837"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86831672"
+     inkscape:cx="126.51667"
+     inkscape:cy="499.91997"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="733"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient2450);fill-opacity:1.0;stroke:#c0cd1e;stroke-width:9.2875000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none;opacity:1.0000000;fill-rule:nonzero;"
+       id="path1062"
+       sodipodi:cx="404.51831"
+       sodipodi:cy="426.87036"
+       sodipodi:rx="274.95728"
+       sodipodi:ry="255.52312"
+       d="M 679.47559 426.87036 A 274.95728 255.52312 0 1 1  129.56104,426.87036 A 274.95728 255.52312 0 1 1  679.47559 426.87036 z" />
+    <flowRoot
+       id="flowRoot1754">
+      <flowRegion
+         id="flowRegion1755">
+        <path
+           style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+           id="use1756"
+           d="M -112.96908,497.11975 C -87.497274,482.83448 -110.56011,497.44014 -115.78056,500.82159 C -150.58986,520.74593 -172.73199,548.50321 -184.48201,581.80171 C -188.04405,592.32056 -189.83344,603.40269 -191.15881,614.60028 L -201.09885,618.72930 C -199.54368,607.43475 -197.58327,596.24287 -193.98220,585.58028 C -182.47452,552.81123 -161.67337,524.86262 -127.73085,504.91975 C -119.66316,499.54603 -112.25387,493.42599 -102.65818,489.81478 L -112.96908,497.11975 z " />
+      </flowRegion>
+      <flowDiv
+         id="flowDiv1757">
+        <flowPara
+           id="flowPara1758">This is flowed text. Currently, you can only edit it by using the XML editor. You can paste style (Ctrl+Shift+V) from regular text objects to it.</flowPara>
+      </flowDiv>
+    </flowRoot>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:#ffffff;stroke-width:6.5451255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path1063"
+       sodipodi:cx="316.70471"
+       sodipodi:cy="326.10068"
+       sodipodi:rx="59.022243"
+       sodipodi:ry="55.423325"
+       d="M 375.72696 326.10068 A 59.022243 55.423325 0 1 1  257.68247,326.10068 A 59.022243 55.423325 0 1 1  375.72696 326.10068 z"
+       transform="matrix(0.900799,0.000000,0.000000,0.931677,41.79742,70.79147)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:#ffffff;stroke-width:6.5451255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path1064"
+       sodipodi:cx="316.70471"
+       sodipodi:cy="326.10068"
+       sodipodi:rx="59.022243"
+       sodipodi:ry="55.423325"
+       d="M 375.72696 326.10068 A 59.022243 55.423325 0 1 1  257.68247,326.10068 A 59.022243 55.423325 0 1 1  375.72696 326.10068 z"
+       transform="matrix(0.889248,0.000000,0.000000,0.968476,193.8448,56.78012)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1.0000000;stroke:#000000;stroke-width:4.7874999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path1733"
+       sodipodi:cx="-539.83759"
+       sodipodi:cy="320.34241"
+       sodipodi:rx="7.1978345"
+       sodipodi:ry="7.9176178"
+       d="M -532.63975 320.34241 A 7.1978345 7.9176178 0 1 1  -547.03542,320.34241 A 7.1978345 7.9176178 0 1 1  -532.63975 320.34241 z"
+       transform="matrix(2.061353,0.000000,0.000000,1.688797,1443.897,-141.4746)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1.0000000;stroke:#000000;stroke-width:4.7874999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path11805"
+       sodipodi:cx="-539.83759"
+       sodipodi:cy="320.34241"
+       sodipodi:rx="7.1978345"
+       sodipodi:ry="7.9176178"
+       d="M -532.63975 320.34241 A 7.1978345 7.9176178 0 1 1  -547.03542,320.34241 A 7.1978345 7.9176178 0 1 1  -532.63975 320.34241 z"
+       transform="matrix(2.061353,0.000000,0.000000,1.688797,1587.853,-139.3154)" />
+    <path
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;opacity:0.76605505;"
+       id="path11842"
+       d="M 189.42534,536.21506 C 212.02608,522.97190 244.94970,516.19753 276.50952,510.60025 C 338.08950,500.63371 403.97734,494.25805 467.56341,502.25651 C 511.24198,509.79177 557.96204,515.72292 596.24457,529.62254 C 602.28876,531.82802 607.73457,534.41107 613.09946,537.03667 L 611.56502,546.89718 C 606.44423,544.04881 601.22724,541.24440 595.14594,538.93361 C 557.34003,524.70675 510.71805,518.49442 467.17112,510.84100 C 403.96937,502.71787 338.14440,508.94130 277.05638,519.19564 C 246.93321,524.71666 210.19085,531.69785 192.48173,546.29772 L 189.42534,536.21506 z " />
+  </g>
+</svg>

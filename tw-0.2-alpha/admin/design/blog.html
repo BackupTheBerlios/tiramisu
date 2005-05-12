@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 //EN">
+<html>
+	<head>
+		<title>Administracion Blog</title>
+
+		<link rel='stylesheet' type='text/css' href='admin/design/estilos.css'>		
+	<head>
+	<body>
+	  <center>
+		<span class='minicabeza'>
+			<br>
+			<a href='admin.php?logout=1'>Logout</a> | 
+			<a href='index.php'>Portada</a> | 
+			<a href='admin.php?'>Menu Principal</a>
+		</span>
+		<div class='cuadropage'> 
+			<img src='admin/design/images/blog.png' border=0>
+			<span class='titulo'>
+				<b> Weblog: </b><br>
+			</span>
+			<br>
+			<FORM class='contenido' METHOD='post' ACTION='admin.php?section=blog'>
+				<div>
+					<p> Titulo:<br><input type='text' name='titulo' size='47' value=''>
+						 Mostrar en portada:
+						<select name='portada' size='1' >
+							<option selected value='1'>Si</option>
+							<option value='0'>No</option>
+						</select>
+					</p>
+					<p>
+						 Texto: <i> (Se mostrará en la visualización previa)</i>
+						<br><textarea name="cont1" cols="73" rows="10"></textarea>
+					</p>
+					<p>
+						 Texto Adicional: <i>(se visualizará solo en la versión detallada, junto a los comentarios)</i>
+						<br><textarea name="cont2" cols="73" rows="7"></textarea>
+					</p>
+				</div>
+				 
+
+
+				<center>
+					<p><input type='submit' value='Enviar' name='login'> </p>
+				</center>
+			</FORM>
+		</div>
+	  </center>
+		<br><br>
+	</body>
+</html>
+

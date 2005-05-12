@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="210mm"
+   height="297mm"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docbase="/home/pa/Desktop/tiramisu/tw-0.0.2-beta-1/functions/tema/iconos"
+   sodipodi:docname="incert.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient2447">
+      <stop
+         style="stop-color:#a8a823;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop2448" />
+      <stop
+         style="stop-color:#feff00;stop-opacity:0.91869920;"
+         offset="0.50000000"
+         id="stop2451" />
+      <stop
+         style="stop-color:#f9fa12;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop2449" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2447"
+       id="linearGradient2450"
+       gradientTransform="scale(1.036991,0.964328)"
+       x1="378.45987"
+       y1="839.66815"
+       x2="397.84082"
+       y2="-288.66837"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86831672"
+     inkscape:cx="126.51667"
+     inkscape:cy="499.91997"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="733"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient2450);fill-opacity:1.0;stroke:#c0cd1e;stroke-width:9.2875000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none;opacity:1.0000000;fill-rule:nonzero;"
+       id="path1062"
+       sodipodi:cx="404.51831"
+       sodipodi:cy="426.87036"
+       sodipodi:rx="274.95728"
+       sodipodi:ry="255.52312"
+       d="M 679.47559 426.87036 A 274.95728 255.52312 0 1 1  129.56104,426.87036 A 274.95728 255.52312 0 1 1  679.47559 426.87036 z" />
+    <flowRoot
+       id="flowRoot1754">
+      <flowRegion
+         id="flowRegion1755">
+        <path
+           style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+           id="use1756"
+           d="M -112.96908,497.11975 C -87.497274,482.83448 -110.56011,497.44014 -115.78056,500.82159 C -150.58986,520.74593 -172.73199,548.50321 -184.48201,581.80171 C -188.04405,592.32056 -189.83344,603.40269 -191.15881,614.60028 L -201.09885,618.72930 C -199.54368,607.43475 -197.58327,596.24287 -193.98220,585.58028 C -182.47452,552.81123 -161.67337,524.86262 -127.73085,504.91975 C -119.66316,499.54603 -112.25387,493.42599 -102.65818,489.81478 L -112.96908,497.11975 z " />
+      </flowRegion>
+      <flowDiv
+         id="flowDiv1757">
+        <flowPara
+           id="flowPara1758">This is flowed text. Currently, you can only edit it by using the XML editor. You can paste style (Ctrl+Shift+V) from regular text objects to it.</flowPara>
+      </flowDiv>
+    </flowRoot>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:#ffffff;stroke-width:6.5451255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path1063"
+       sodipodi:cx="316.70471"
+       sodipodi:cy="326.10068"
+       sodipodi:rx="59.022243"
+       sodipodi:ry="55.423325"
+       d="M 375.72696 326.10068 A 59.022243 55.423325 0 1 1  257.68247,326.10068 A 59.022243 55.423325 0 1 1  375.72696 326.10068 z"
+       transform="matrix(0.900799,0.000000,0.000000,0.931677,20.20392,27.60446)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1.0000000;stroke:#000000;stroke-width:4.7874999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path1733"
+       sodipodi:cx="-539.83759"
+       sodipodi:cy="320.34241"
+       sodipodi:rx="7.1978345"
+       sodipodi:ry="7.9176178"
+       d="M -532.63975 320.34241 A 7.1978345 7.9176178 0 1 1  -547.03542,320.34241 A 7.1978345 7.9176178 0 1 1  -532.63975 320.34241 z"
+       transform="matrix(2.061353,0.000000,0.000000,1.688797,1419.425,-200.4968)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1.0000000;stroke:#ffffff;stroke-width:6.5451255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path1082"
+       sodipodi:cx="316.70471"
+       sodipodi:cy="326.10068"
+       sodipodi:rx="59.022243"
+       sodipodi:ry="55.423325"
+       d="M 375.72696 326.10068 A 59.022243 55.423325 0 1 1  257.68247,326.10068 A 59.022243 55.423325 0 1 1  375.72696 326.10068 z"
+       transform="matrix(0.900799,0.000000,0.000000,0.931677,208.4841,28.75825)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1.0000000;stroke:#000000;stroke-width:4.7874999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       id="path11805"
+       sodipodi:cx="-539.83759"
+       sodipodi:cy="320.34241"
+       sodipodi:rx="7.1978345"
+       sodipodi:ry="7.9176178"
+       d="M -532.63975 320.34241 A 7.1978345 7.9176178 0 1 1  -547.03542,320.34241 A 7.1978345 7.9176178 0 1 1  -532.63975 320.34241 z"
+       transform="matrix(2.061353,0.000000,0.000000,1.688797,1605.127,-198.3377)" />
+    <path
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       id="path1085"
+       d="M 204.05749,536.31998 C 205.11629,534.27648 207.05085,532.32270 208.60385,530.45868 C 212.14096,525.66636 215.82322,520.98754 219.81873,516.49421 C 225.16782,510.87342 232.23677,506.98890 239.60352,503.87543 C 246.06630,501.59427 252.02737,502.54219 258.35814,504.24260 C 264.27538,506.42248 268.62241,510.49693 272.96815,514.52876 C 276.64391,518.71793 280.98946,522.12891 285.71596,525.28691 C 290.93445,528.14402 296.69711,528.52382 302.67231,528.71475 C 310.57778,528.44635 318.44693,527.46978 326.26083,526.33912 C 331.98804,524.77829 337.77171,523.26359 343.22030,521.02505 C 348.70774,517.47281 353.73456,513.39233 358.96056,509.54206 C 365.90680,504.29229 373.33759,500.68590 381.95477,498.68019 C 388.79493,497.95043 394.27493,500.50848 399.86259,503.56642 C 405.35397,507.12930 410.18800,511.42913 415.00831,515.67945 C 420.20115,520.42447 425.57912,524.98189 431.27523,529.23240 C 435.85912,532.64765 441.30073,534.21424 446.96623,535.55344 C 453.67708,536.91539 460.30150,536.11058 466.96430,534.94830 C 474.38313,533.15140 480.98295,529.56053 487.51085,526.01220 C 490.80466,524.25488 494.30760,521.93359 504.09420,515.81471 C 510.91554,511.09004 518.22238,507.77905 526.34058,505.47547 C 532.81186,503.73913 539.42529,503.50032 546.07545,503.70795 C 552.98264,504.31715 557.66747,507.70762 562.40229,511.84054 C 566.79929,516.31933 570.29698,521.41904 573.85259,526.44458 C 576.66339,531.26748 580.69424,533.68254 585.97586,535.77516 C 593.70522,537.03474 601.16081,534.86252 608.41567,532.53044 C 610.13886,531.95124 611.79229,531.22101 613.47970,530.56665 L 609.15913,534.00740 C 607.46496,534.65407 605.80298,535.37358 604.07510,535.94801 C 596.71738,538.24828 589.17089,540.37981 581.37955,538.95751 C 576.04291,536.73507 571.87650,534.23508 569.02147,529.32087 C 565.48762,524.31760 562.01352,519.23787 557.62631,514.78951 C 552.95798,510.74150 548.35628,507.46834 541.55130,506.95767 C 534.93999,506.81493 528.36180,507.09808 521.94805,508.87441 C 517.91429,510.05491 501.65069,516.93794 509.34029,513.63769 C 500.71128,519.02054 492.15643,524.51190 483.23514,529.50184 C 476.67564,533.04448 470.03689,536.60925 462.56570,538.32591 C 455.83463,539.42777 449.13972,540.17575 442.39013,538.75398 C 436.66554,537.36395 431.17756,535.72212 426.55541,532.25150 C 420.85976,527.96962 415.47054,523.39344 410.25719,518.63912 C 405.45495,514.41639 400.63999,510.14191 395.16289,506.61331 C 389.63931,503.62977 384.25313,501.17211 377.52115,502.03221 C 366.94293,504.69771 366.08774,506.07525 364.19492,507.32503 C 358.95168,511.16525 353.91584,515.23687 348.47207,518.84975 C 340.16697,523.81499 331.87476,528.31644 321.84821,529.68213 C 314.00590,530.78400 306.11328,531.78328 298.18177,531.99940 C 292.11642,531.75460 286.27778,531.29903 281.01467,528.34592 C 276.27227,525.14199 271.89965,521.69208 268.19290,517.47728 C 263.89700,513.50180 259.60307,509.48392 253.73260,507.38170 C 247.45661,505.77281 241.58375,504.94936 235.24946,507.31256 C 226.48193,511.18848 234.98820,506.17528 225.00910,514.18483 C 220.98245,518.64588 217.27963,523.29971 213.78627,528.10927 C 212.30985,529.89544 210.64033,532.13696 209.09810,533.63732 L 204.05749,536.31998 z " />
+  </g>
+</svg>

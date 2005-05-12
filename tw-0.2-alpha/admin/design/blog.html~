@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 //EN">
+<html>
+	<head>
+		<title>Administracion Blog</title>
+
+		<link rel='stylesheet' type='text/css' href='admin/design/estilos.css'>		
+	<head>
+	<body>
+	  <center>
+		<div class='cuadropage'> 
+			<img class src='admin/design/images/blog.png?section=blog' border=0>
+			<span class='titulo'>
+				<b> Weblog: </b><br>
+			</span>
+			<br>
+			<FORM class='contenido' METHOD='post' ACTION='admin.php'>
+				<p>Titulo:<br><input type='text' name='titulo' size='45' value=''></p>
+				<p>Texto:<br><textarea name="cont1" cols="56" rows="10"></textarea></p>
+				<p>Texto Adicional:<br><textarea name="cont2" cols="56" rows="7"></textarea></p>
+
+				<center>
+					<p><input type='submit' value='Enviar' name='login'> </p>
+				</center>
+			</FORM>
+
+		</div>
+	  </center>
+	</body>
+</html>

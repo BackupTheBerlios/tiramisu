@@ -1,0 +1,105 @@
+<html>
+	<head>
+		<title>Pa Webpage: Weblogs</title>
+
+		<link rel='stylesheet' type='text/css' href='tema/estilos.css'>		
+	<head>
+	<body>
+		<div class='cuadromain'>
+			<img class='imagen' src='tema/foto.jpg'>
+			<div class='cuadrocabeza' align='right'> <img src='tema/cabeza.jpg'> </div>
+			<div class='cuadrocontent'>
+				<div class='cuadromenu' align='left'>
+					<span class='menuselect' align='center'> Blog </span>
+					<span class='cadamenu' align='center'>	<a href='{link_portafolio}'> Portfolio </a></span>
+					<span class='cadamenu' align='center'> <a href=''> Incoming... </a> </span>
+				</div>
+					<br>
+					{alert}
+					<!-- BEGIN slist -->
+					<div class='articulo'>
+						<div class='articulo_barra'>
+							<a href='{ref}'>
+								<b>{titulo}</b>
+							</a>
+						</div>
+						<div class='subtitulo'>
+							<b>Fecha:</b> {fecha}
+						</div><br>
+							{cont}
+						</div>
+				<br><br>
+				<!-- END slist -->
+
+				<!-- BEGIN fullblog -->
+					
+					<div class='articulo'>
+						<div class='articulo_barra'>
+								<b>{full_titulo}</b>
+							</div>
+							<div class='subtitulo'>
+								<b>Fecha:</b> {full_fecha}
+							</div><br>
+								{full_cont}
+							</div><br>
+							<center></center>
+							<br>
+							<div>
+								<i>{full_post}</i>
+						</div><br>
+					<center></center>
+	
+					<br><br>
+					<!-- BEGIN comentario -->
+						<br>
+						<div class='comentario_barra'>
+							Escrito por 
+							<a href='mailto:{email-coment}'>{email-coment}</a>
+						</div>
+						<div class='subtitulo'>
+							Fecha: {fecha-coment}
+						</div><br>
+						{content-coment}
+						<br>
+					<!-- END comentario -->
+					<!-- BEGIN addnew -->
+								<br><br><br>
+								<br><br><br>
+								<FORM class='contenido' METHOD='post' ACTION='{post}'>
+									<p>Correo-e:<br>
+										<input type='text' name='{mail}' size='30' value=''>
+									</p>
+									<p>Comentario:<br>
+										<textarea name="{content}" cols="50" rows="6"></textarea>
+									</p>
+									<p><input type='submit' value='Enviar' name='{send}'> </p>
+								</FORM>
+					<!-- END addnew -->
+				<!-- END fullblog -->
+
+
+					
+				<br>
+
+
+				<br><br><br><br><br><br>
+				<!-- BEGIN anterior -->
+				 <b><a href='{ant-link}'>..::Pagina anterior</a> -
+				<!-- END anterior -->
+				  {page} 
+				<!-- BEGIN posterior -->
+				 - <a href='{post-link}'>Pagina Siguiente::..</a></b>
+				<!-- END posterior -->
+				<br><br><br><br><br><br><br>
+
+				<center>
+					<a href='www.mozilla.org'>
+						<img border='0' src='tema/white_2.gif'>
+					</a>
+				</center>
+
+				<br><br><br><br>
+			</div>
+		</div>
+	</body>
+</html>

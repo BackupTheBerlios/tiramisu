@@ -1,0 +1,83 @@
+/*Hoja de estilos para página de configuración*/
+
+body {
+	margin:0px;
+	background-color:#E9E9E9;
+	font:16px arial ;
+	font-family:arial;
+
+}
+
+a {
+	color:grey;
+	text-decoration:none;
+}
+
+a:hover {
+	color:blue;
+}
+
+form {
+	font-size:13px;
+}
+
+input,textarea, select {
+	background-color:#EAE9F6;
+	border:1px #BBB6DF solid;
+	color:grey;
+	font-family:arial;
+	font-size:13px;
+}
+
+input:hover,textarea:hover {
+	background-color: #E1DEF2;
+}
+
+.cuadro {
+	background-color:#D3D0EE;
+	border:1px #BBB6DF solid;
+	width:500px;
+	position:relative;
+	text-align:left;
+	color:grey;
+}
+
+.cuadropage {
+	background-color:#D3D0EE;
+	border:1px #BBB6DF solid;
+	width:590px;
+	text-align:left;
+	color:grey;
+}
+
+.contenido {
+	padding-left:20px;
+
+}
+
+.cuadrologin {
+	background-color:#D3D0EE;
+	border:1px #BBB6DF solid;
+	width:290px;
+	position:relative;
+	margin-top:60px;
+	text-align:left;
+	color:grey;
+}
+
+.titulo {
+	text-align:center;
+	font:20px arial ;
+	color:#B0B0D0;
+}
+
+.seccion {
+	padding-left: 30px;
+}
+
+.minicabeza {
+	font:13px arial;
+}
+
+
+
