@@ -1,0 +1,50 @@
+
+
+
++-------------------------------------------+
+|            Metas a corto plazo            |
++-------------------------------------------+
++-------------------------------------------+
+| Lectura Blog 			[ OK ]
+| Escritura Blog 		[ OK ]
+| Plantillas  			[ OK ]
+| Paginador			[ OK ]
+| Estadísticas			[ NOT READY ] 
+| Filtros			[ OK ]
+| Mostrar blog completo		[ OK ]
+| Comentarios			[ OK ]
+| Escritura Estaticos		[ NOT READY ]
+| Lectura Estáticos		[ NOT READY ]
++-------------------------------------------+
+
+[ 18 / 04 / 2005 ] 12:55 pm
+ -Vale, el sistema de comentarios está terminado, de modo que ya puedo tar algo mas contento :) 
+A partir d ahora cambiaré la versión, perfeccionaré los detalles que quedan en esta y pasaré a usarla con mi propio weblog, a ver si no encuentro problemas al subir todo al servidor. BUENAS NOXES
+
+
+[ 13 / 04 / 2005 ] 10:40 pm
+ -Weno, todavía no he cenado, asi k me haré algo  de cenar y continuaré con esto, he resuelto unos problemas que me ofuscaban el código de functions/interfaz.php pero todavía me queda una cosita, me he dado cuenta de que puedo centralizar la "declaración de bloques" de las templates en una funcion y asi ya no tengo todo desperdigado por ahi. También tengo que mirar lo de la función paginadora, hay k resolverlo, que estoy repitiendo un pedacito de código y me come el alma :P
+
+
+[ 31 / 03 / 2005 ]
+ -Con todas las cosas pequeñitas que van surgiendo todavía no hice nada del sistema de comentarios, ahora los blogs se pueden visualizar de forma completa en una página independiente, solo me queda realizar un paginador avanzado que funcione algo mejor que este, k la verdad ...
+
+[ 27 / 03 / 2005 ]
+ -Despues de cenar una tortilla de pascua que todavía nada en mi estómago, continúo programando, esta vez el sistema de comentarios, ya hacía falta ... 
+
+[ 13 / 03 / 2005 ]
+ -Otia, acabo de terminar la parte del login de la pagina de administracion, la gestion de la basde de datos está  mas o menos unificada y lista para seguir picando codigo. Ahora mismo los objetivos son terminar la pagina de admin del blog y comenzar  lo de mostrar blog completo y los comentarios. 
+ Nota! en el servidor tengo una version algo anterior de php y da error con el archivo de templates, tendré que informarme de que pasa ahi.
+
+[ 9 / 02 / 2005 ]
+ -Hay k empezar a currarse las funcionalidades para el administrador del weblog, empezar a paginar y filtrar los resultados, pero antes hay que unificar la gestion de base de datos
+
+
+[ 2 / 02 / 2005 ]
+ -Acabo de crear el primer tema del weblog, aunque por ahora está al 2% de su capacidad operativa, puedo ver que la facilidad para hacer un tema me sorprende. 	
+
+[ 20 / 01 / 2005 ]
+ -Sería recomendable organizarme un poquito más y colocar la base de datos de forma independiente en un archivo de funciones similar al actual 'bd_infra.php'. 
+Queda un poquito lioso dentro de los archivos de lectura y escritura.
+
+
